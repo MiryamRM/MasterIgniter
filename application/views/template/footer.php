@@ -1,5 +1,5 @@
 <!--footer start-->
-<footer class="site-footer fixed-bottom">
+<footer class="site-footer">
     <div class="text-center">
         Miryam Ramos Martinez
         <a href="" class="go-top">
